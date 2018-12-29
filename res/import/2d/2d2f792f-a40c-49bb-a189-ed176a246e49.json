@@ -1,0 +1,1 @@
+{"__type__":"cc.SceneAsset","_name":"helloworld","scene":{"__type__":"cc.Scene","_name":"New Node","_anchorPoint":{"__type__":"cc.Vec2"},"_scale":{"__type__":"cc.Vec3","x":0.3234375,"y":0.3234375,"z":1},"autoReleaseAssets":false},"asyncLoadAssets":null}
